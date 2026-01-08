@@ -3,6 +3,7 @@
 In this report, I will be analysing the BOTSv3 dataset within Splunk. The BOTSv3 dataset is a public dataset made up of 2,083,056 events which simulates an incident to allow cyber security professionals to practice event analysis in a simulated environment. By utilising the 3 tiers of SOC – triage, investigation and hunting – I will answer a series of questions to determine how the incident occurred, including information about the user(s) and device(s) involved. This report will focus on 8 of those questions, explaining their relevance to SOC, as well as how to install Splunk and how to prepare the BOTSv3 dataset for analysis.
 
 Screenshots can be found here: https://github.com/Mark7567/COMP3010
+
 Video walkthrough: https://www.youtube.com/watch?v=ijebfZ6ZJcI
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
